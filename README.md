@@ -1,4 +1,3 @@
 # new
-My first Repositary.
-
+My first Repositary.<br>
 Author - NewStudent
