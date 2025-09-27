@@ -1,3 +1,3 @@
 # new
-My first Repositary.<br>
+My first Repositary.
 Author - NewStudent
